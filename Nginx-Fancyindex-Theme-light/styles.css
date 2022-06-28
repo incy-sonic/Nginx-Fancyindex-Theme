@@ -16,7 +16,7 @@
 
 html {
     color: #61666c;
-    font-weight: 300;
+    font-weight: 700;
     font-size: 1em;
     line-height: 2em;
 }
@@ -128,7 +128,7 @@ input {
 
 table {
     border-collapse: collapse;
-    font-size: 0.9em;
+    font-size: 1em;
     width: 100%;
     margin: 20px auto 0;
 }
